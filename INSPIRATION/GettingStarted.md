@@ -32,6 +32,10 @@ Playbour (sometimes spelled playbor) is a hybrid form of play and labour, speci
 
 
 
+
+
+
+
 # Reseach Questions:
 
 
@@ -41,6 +45,8 @@ Capitalist mechanics in games
 Game industry indie games
 
 Sustainable video games
+
+
 
 
 
