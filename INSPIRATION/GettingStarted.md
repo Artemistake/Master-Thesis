@@ -30,10 +30,6 @@ Playbour (sometimes spelled playbor) is a hybrid form of play and labour, speci
 
 
 
-
-
-
-
 # Reseach Questions:
 
 
@@ -43,10 +39,6 @@ Playbour (sometimes spelled playbor) is a hybrid form of play and labour, speci
 - How can we rethink the creation context of video games and the industry to be more responsible and creative?
 
 - How can game mechanics and practices convey ecological and degrowth messages?
-
-
-
-
 
 
 
