@@ -38,15 +38,11 @@ Playbour (sometimes spelled playbor) is a hybrid form of play and labour, speci
 
 
 
-How have capitalist principles and ideas been applied to game mechanics in video games?
+- How have capitalist principles and ideas been applied to game mechanics in video games?
 
+- How can we rethink the creation context of video games and the industry to be more responsible and creative?
 
-
-How can we rethink the creation context of video games and the industry to be more responsible and creative?
-
-
-
-How can game mechanics and practices convey ecological and degrowth messages?
+- How can game mechanics and practices convey ecological and degrowth messages?
 
 
 
