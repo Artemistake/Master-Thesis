@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INSPIRATION/GettingStarted.md",
+                "file": "METHOD/METHOD.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INSPIRATION/GettingStarted.md",
+                "file": "METHOD/METHOD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INSPIRATION/GettingStarted.md",
+                "file": "METHOD/METHOD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INSPIRATION/GettingStarted.md"
+                "file": "METHOD/METHOD.md"
               }
             }
           }
@@ -159,12 +159,12 @@
   },
   "active": "2e72f7b1aa34fe12",
   "lastOpenFiles": [
-    "OUTPUT/ReadMe.md",
-    "METHOD/ReadMe.md",
-    "DATA/ReadMe.md",
-    "METHOD/METHOD.md",
-    "INSPIRATION/GettingStarted.md",
     "INSPIRATION/Visual Inspo.png",
+    "METHOD/METHOD.md",
+    "METHOD/ReadMe.md",
+    "INSPIRATION/GettingStarted.md",
+    "OUTPUT/ReadMe.md",
+    "DATA/ReadMe.md",
     "README.md",
     "Untitled.canvas"
   ]
