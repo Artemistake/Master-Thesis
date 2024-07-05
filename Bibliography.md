@@ -5,6 +5,8 @@ Bulut, Ergin. “Creativity and Its Discontents: A Case Study of Precarious Play
 
 Chang, Alenda Y. _Playing Nature: Ecology in Video Games_. U of Minnesota Press, 2019.
 
+_Citizen Sleeper: How Precarity and Minimum Viable Design Created This Dystopian RPG | BAFTA_, 2023. [https://www.youtube.com/watch?v=r2b_M4a8SoQ](https://www.youtube.com/watch?v=r2b_M4a8SoQ).
+
 _De Pac-Man à WOW : Le Capitalisme Dans Les Jeux Vidéos_, 2020. [https://www.youtube.com/watch?v=9bf3GaSyX6U](https://www.youtube.com/watch?v=9bf3GaSyX6U).
 
 Denham, Jack, and Matthew Spokes. “The Right to the Virtual City: Rural Retreatism in Open-World Video Games.” _New Media & Society_ 23, no. 6 (2021): 1567–83. [https://doi.org/10.1177/1461444820917114](https://doi.org/10.1177/1461444820917114).
@@ -46,6 +48,8 @@ Ruffino, Paolo, and Jamie Woodcock. “Game Workers and the Empire: Unionisation
 Soderman, Braxton. _Against Flow: Video Games and the Flowing Subject_. The MIT Press, 2021.
 
 Taylor, Nicholas, Kelly Bergstrom, Jennifer Jenson, and Suzanne de Castell. “Alienated Playbour: Relations of Production in EVE Online.” _Games and Culture_ 10, no. 4 (July 1, 2015): 365–88. [https://doi.org/10.1177/1555412014565507](https://doi.org/10.1177/1555412014565507).
+
+_The Last Worker: A Dystopian Game Rooted in the World of Today | BAFTA_, 2023. [https://www.youtube.com/watch?v=oa5BOZaM064](https://www.youtube.com/watch?v=oa5BOZaM064).
 
 “The Right to the Virtual City: Rural Retreatism in Open-World Video Games - SLSP Network Zone.” Accessed March 28, 2024. [https://swisscovery.slsp.ch/discovery/fulldisplay?docid=cdi_sage_journals_10_1177_1461444820917114&context=PC&vid=41SLSP_NETWORK:VU1_UNION&lang=fr&search_scope=DN_and_CI&adaptor=Primo%20Central&tab=41SLSP_NETWORK&query=any,contains,video%20games%20capitalism&offset=0](https://swisscovery.slsp.ch/discovery/fulldisplay?docid=cdi_sage_journals_10_1177_1461444820917114&context=PC&vid=41SLSP_NETWORK:VU1_UNION&lang=fr&search_scope=DN_and_CI&adaptor=Primo%20Central&tab=41SLSP_NETWORK&query=any,contains,video%20games%20capitalism&offset=0).
 
