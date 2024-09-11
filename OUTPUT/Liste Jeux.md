@@ -1,0 +1,10 @@
+- Diary of a spaceport janitor
+- Mass Effect
+- Star Citizen
+- No man sky
+- Starfield
+- Citizen Sleeper
+- Satisfactory
+- The Last worker
+- Paperclip Game
+- 

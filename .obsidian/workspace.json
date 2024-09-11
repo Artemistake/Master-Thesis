@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bibliography.md",
+                "file": "OUTPUT/Liste Jeux.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bibliography.md",
+                "file": "OUTPUT/Liste Jeux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bibliography.md",
+                "file": "OUTPUT/Liste Jeux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bibliography.md"
+                "file": "OUTPUT/Liste Jeux.md"
               }
             }
           }
@@ -169,16 +169,18 @@
   },
   "active": "38b225a1a3abc814",
   "lastOpenFiles": [
+    "OUTPUT/PLANNING_TODO.md",
+    "OUTPUT/Insights.md",
+    "OUTPUT/Liste Jeux.md",
+    "DATA/ReadMe.md",
+    "README.md",
     "Pres30.05.24.pdf",
     "Bibliography.md",
     "Untitled",
-    "README.md",
     "METHOD/METHOD.md",
     "INSPIRATION/GettingStarted.md",
     "INSPIRATION/Visual Inspo.png",
     "METHOD/ReadMe.md",
-    "OUTPUT/ReadMe.md",
-    "DATA/ReadMe.md",
     "Untitled.canvas"
   ]
 }
