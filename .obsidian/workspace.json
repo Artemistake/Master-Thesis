@@ -4,43 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d0157a02b92a8ff2",
+        "id": "eae27715bdd2df19",
         "type": "tabs",
         "children": [
           {
-            "id": "9fd98376b3218752",
+            "id": "67b7f0d3fcb35a85",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "INSPIRATION/Visual Inspo.png"
-              }
-            }
-          },
-          {
-            "id": "2e72f7b1aa34fe12",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Pres30.05.24.pdf"
-              }
-            }
-          },
-          {
-            "id": "38b225a1a3abc814",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OUTPUT/Liste Jeux.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OUTPUT/Liste Jeux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OUTPUT/Liste Jeux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "OUTPUT/Liste Jeux.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -167,19 +138,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "38b225a1a3abc814",
+  "active": "2e03ba34e3d0dde4",
   "lastOpenFiles": [
-    "OUTPUT/PLANNING_TODO.md",
-    "OUTPUT/Insights.md",
-    "OUTPUT/Liste Jeux.md",
-    "DATA/ReadMe.md",
-    "README.md",
-    "Pres30.05.24.pdf",
-    "Bibliography.md",
     "Untitled",
-    "METHOD/METHOD.md",
+    "README.md",
+    "DATA/ReadMe.md",
     "INSPIRATION/GettingStarted.md",
     "INSPIRATION/Visual Inspo.png",
+    "OUTPUT/Insights.md",
+    "OUTPUT/Liste Jeux.md",
+    "OUTPUT/PLANNING_TODO.md",
+    "Pres30.05.24.pdf",
+    "Bibliography.md",
+    "METHOD/METHOD.md",
     "METHOD/ReadMe.md",
     "Untitled.canvas"
   ]

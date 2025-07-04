@@ -1,0 +1,109 @@
+%!Adobe-FontList 1.24
+%Locale:0x40c
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Artem\Downloads\Dossier Mémoire-20241202T152619Z-001\Dossier Mémoire\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1733153237
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Thin
+FamilyName:Montserrat
+StyleName:Thin
+FullName:Montserrat Thin
+MenuName:Montserrat Thin
+FamilyPrefix:MontserratRoman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Artem\Downloads\Dossier Mémoire-20241202T152619Z-001\Dossier Mémoire\Document fonts\Montserrat-VariableFont_wght.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:TrueTypeVariableFont
+FileLength:394140
+FileModTime:1733153237
+WeightClass:100
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Montserrat Thin
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MoristonPersonal-Black
+FamilyName:Moriston Personal
+StyleName:Black
+FullName:Moriston Personal Black
+MenuName:Moriston Personal Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Artem\Downloads\Dossier Mémoire-20241202T152619Z-001\Dossier Mémoire\Document fonts\MoristonPersonal-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:84592
+FileModTime:1733153237
+WeightClass:450
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Moriston Personal Black
+NameArray:0,Mac,4,Moriston Personal Black
+NameArray:0,Win,1,Moriston Personal Black
+NameArray:0,Win,16,Moriston Personal
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Uliises-Regular
+FamilyName:Uliises
+StyleName:Regular
+FullName:Uliises
+MenuName:Uliises
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Artem\Downloads\Dossier Mémoire-20241202T152619Z-001\Dossier Mémoire\Document fonts\Uliises-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:20544
+FileModTime:1733153237
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Uliises
+NameArray:0,Win,16,Uliises
+%EndFont
+
